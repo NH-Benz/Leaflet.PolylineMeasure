@@ -56,3 +56,7 @@ a.polyline-measure-clearControl:active {
     font: 11px Arial, Helvetica, sans-serif;
     line-height: 11px;
 }
+
+.polyline-measure-arrow {
+  /* color: red; */
+}
