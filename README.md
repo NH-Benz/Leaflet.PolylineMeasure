@@ -1,5 +1,5 @@
 # Fork Note
-* change arrow icon color
+* add class 'polyline-measure-arrow'
 
 
 # Leaflet.PolylineMeasure
